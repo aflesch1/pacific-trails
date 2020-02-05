@@ -25,3 +25,14 @@
         </ul>
   <div class="contact">
     <span class="resort">Pacific Trails Resort</span><br>
+ 12010 Pacific Trails Road<br>
+    Zephyr, CA 95555<br>
+    <a id="mobile" href="tel:888-555-5555">888-555-5555</a>
+    <span id="desktop">888-555-5555</span>
+  </div>
+  </main>
+  <footer>
+    Copyright &copy; 2016 Pacific Trails Resort<br>
+    jams@pb.com
+  </footer>
+</div>
