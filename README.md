@@ -10,7 +10,7 @@
     <li><a href="reservations.html">Reservations</a></li>
     </ul>
   </nav>
-  <div id="homehero">
+  <div id="trailhero.">
   </div>
   <main>
     <h2> "Activites at Pacific Trails"
