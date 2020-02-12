@@ -13,7 +13,7 @@
   <div id="homehero">
   </div>
   <main>
-    <h2> Enjoy Nature in Luxury
+    <h2> "Activites at Pacific Trails"
 <p><span class="resort">Pacific Trail Resorts</span> offers a special lodging experience on the California North Coast. Relax in serenity with panoramic views of the Pacific Ocean.</p>
    
       <ul>
